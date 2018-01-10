@@ -1,5 +1,6 @@
 # react-todo
-Basic todo app in React
+Basic todo app in built with [Create React App](https://github.com/facebookincubator/create-react-app)
+
 
 Functionality
 
